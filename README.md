@@ -1,4 +1,1 @@
-## Hello! I'm Ian.
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chengtc-dev&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengtc-dev&theme=tokyonight&layout=compact)
+![Black Modern Personal LinkedIn Banner](https://github.com/chengtc-dev/chengtc-dev/assets/91156531/89e648b9-a2f3-4fca-9659-52e72c9d58bc)
