@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/CGHy1hQ1WPKDCz5Xk6/giphy.gif" width="50px">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,mysql,spring,vue,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=java,js,mysql,spring,vue,docker" />
   </a>
   <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="50px">
 </p>
