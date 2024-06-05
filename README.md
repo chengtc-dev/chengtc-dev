@@ -8,8 +8,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chengtc-dev" alt="chengtc-dev" /></a> </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chengtc-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="chengtc-dev" /></p>
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=chengtc-dev&show_icons=true&theme=dracula&locale=en" alt="chengtc-dev" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chengtc-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="chengtc-dev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chengtc-dev&show_icons=true&theme=dracula&locale=en" alt="chengtc-dev" />
+</p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chengtc-dev&theme=dark" alt="chengtc-dev" /></p>
