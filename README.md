@@ -1,11 +1,15 @@
 <img src="https://github.com/chengtc-dev/chengtc-dev/assets/91156531/89e648b9-a2f3-4fca-9659-52e72c9d58bc">
 
-<hr />
+<h1 align="center">Hi 👋, I'm Ian Cheng</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/CGHy1hQ1WPKDCz5Xk6/giphy.gif" width="50px">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,mysql,spring,vue,docker" />
-  </a>
-  <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="50px">
-</p>
+<h3 align="center">A passionate backend developer from Taiwan</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chengtc-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chengtc-dev" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chengtc-dev" alt="chengtc-dev" /></a> </p>
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chengtc-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="chengtc-dev" /></p>
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=chengtc-dev&show_icons=true&theme=dracula&locale=en" alt="chengtc-dev" /></p>
+
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chengtc-dev&theme=dark" alt="chengtc-dev" /></p>
