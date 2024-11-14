@@ -1,8 +1,6 @@
 <img src="https://github.com/chengtc-dev/chengtc-dev/assets/91156531/89e648b9-a2f3-4fca-9659-52e72c9d58bc">
 
-<h1 align="center">Lazy makes computer science great again</h1>
-
-<h3 align="center">A passionate backend developer from Taiwan</h3>
+<h3 align="center">Lazy makes computer science great again</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chengtc-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chengtc-dev" /> </p>
 
