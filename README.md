@@ -1,6 +1,6 @@
 <img src="https://github.com/chengtc-dev/chengtc-dev/assets/91156531/89e648b9-a2f3-4fca-9659-52e72c9d58bc">
 
-<h1 align="center">Hi 👋, I'm Ian Cheng</h1>
+<h1 align="center">Lazy makes computer science great again</h1>
 
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
