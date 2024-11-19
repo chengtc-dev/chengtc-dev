@@ -19,7 +19,7 @@
       </div>
       <div align="center" style="margin-top: 10px;">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=chengtc-dev&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=chengtc-dev&theme=dracula&hide_border=false&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
         </a>
       </div>
     </td>
