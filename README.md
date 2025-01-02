@@ -10,17 +10,26 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="center" style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chengtc-dev&show_icons=true&theme=dracula&locale=en" alt="Top Languages" />
+    <td align="center">
+       <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chengtc-dev&show_icons=true&theme=dracula&locale=en" alt="Top Languages" />
+      </div>
     </td>
-    <td valign="top" style="width: 50%;">
+    <td>
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=chengtc-dev&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
       </div>
-      <div align="center" style="margin-top: 10px;">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=chengtc-dev&theme=dracula&hide_border=false&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-        </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+       <div align="center">
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=chengtc-dev&animated=true&theme=dracula" alt="LeetCode Badges"/>
+      </div>
+    </td>
+    <td align="center">
+       <div align="center">
+        <img src="https://streak-stats.demolab.com?user=chengtc-dev&theme=dracula&hide_border=false&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
       </div>
     </td>
   </tr>
